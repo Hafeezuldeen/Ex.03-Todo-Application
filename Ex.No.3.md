@@ -184,9 +184,9 @@ index.html
 
 
 ## OUTPUT
-![Screenshot 2025-05-02 151830](https://github.com/user-attachments/assets/c4a5d6ee-154a-4f85-99e5-8580e664e1c7)
-![Screenshot 2025-05-02 151802](https://github.com/user-attachments/assets/24deb1ad-e677-4148-bdda-99beff6e1d2d)
 
+![Screenshot 2025-05-02 151802](https://github.com/user-attachments/assets/24deb1ad-e677-4148-bdda-99beff6e1d2d)
+![Screenshot 2025-05-02 151830](https://github.com/user-attachments/assets/c4a5d6ee-154a-4f85-99e5-8580e664e1c7)
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
